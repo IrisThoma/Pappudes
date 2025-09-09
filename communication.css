@@ -1,0 +1,14 @@
+body {
+  margin: 0;
+  height: 100vh;
+  display: flex;
+  justify-content: flex-start; /* Στοιχίζει το περιεχόμενο αριστερά */
+  align-items: center; /* Κάθετα στο κέντρο */
+  font-family: Arial, sans-serif;
+  background-color: #f0f0f0;
+}
+
+.content {
+  line-height: 2em; /* Κενό ανάμεσα στις γραμμές */
+  padding-left: 20px; /* Απόσταση από τα αριστερά */
+}
